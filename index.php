@@ -152,7 +152,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             data-endeasing="Power1.easeIn"
                             data-captionhidden="off"
                             style="z-index: 6">
-                            <span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
+                            <span class="page-scroll"><a href="#idea" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
                         </div>
                     </li>
 
@@ -201,9 +201,8 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             data-endeasing="Power1.easeIn"
                             data-captionhidden="off"
                             style="z-index: 6">
-                            <span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
-                            <span class="page-scroll"><a href="#portfolio" class="btn-u btn-brd btn-brd-hover btn-u-light">Our Work</a></span>
-                        </div>
+                            <span class="page-scroll"><a href="#idea" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
+                            </div>
                     </li>
 
                     <!-- SLIDE 3 -->
@@ -251,9 +250,8 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             data-endeasing="Power1.easeIn"
                             data-captionhidden="off"
                             style="z-index: 6">
-                            <span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
-                            <span class="page-scroll"><a href="#portfolio" class="btn-u btn-brd btn-brd-hover btn-u-light">Our Work</a></span>
-                        </div>
+                            <span class="page-scroll"><a href="#idea" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
+                            </div>
                     </li>
                 </ul>
                 <div class="tp-bannertimer tp-bottom"></div>
@@ -265,7 +263,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 
     <!-- Start Idea -->
 
-    <div class="title-v1" style="padding:10% 20%;">
+    <div id = "idea"class="title-v1" style="padding:10% 20%;">
         <h1 class="h1">IDEA</h1>
         <h4 class="h4" style="line-height: 30px;">It is an initiative to make the society clean and free from dirty pickets.It allows users to click pictures of garbage lots and inform others on the application (along with the location of the place).<strong style="color:orange;"> Admin </strong>(NGO persons) would confirm the dirty area and would create an <strong style="color:blue;">event</strong> and post it on the application. Volunteers will RSVP to join the event and contribute their services to clean the area. People who cannot directly participate can <strong style="color:red;">donate </strong>things for cleaning or donate money. People can also donate money through bitcoins.</h4>
     </div>

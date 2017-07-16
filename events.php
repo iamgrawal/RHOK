@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+33<!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
@@ -151,9 +151,8 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 							data-endeasing="Power1.easeIn"
 							data-captionhidden="off"
 							style="z-index: 6">
-							<span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
-							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Browse Events</a></span>
-						</div>
+							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Upcoming Events</a></span>
+							</div>
 					</li>
 
 					<!-- SLIDE 2 -->
@@ -201,9 +200,8 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 							data-endeasing="Power1.easeIn"
 							data-captionhidden="off"
 							style="z-index: 6">
-							<span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
-							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Browse Events</a></span>
-						</div>
+							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Upcoming Events</a></span>
+							</div>
 					</li>
 
 					<!-- SLIDE 3 -->
@@ -251,9 +249,8 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 							data-endeasing="Power1.easeIn"
 							data-captionhidden="off"
 							style="z-index: 6">
-							<span class="page-scroll"><a href="#about" class="btn-u btn-brd btn-brd-hover btn-u-light">Learn More</a></span>
-							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Browse Events</a></span>
-						</div>
+							<span class="page-scroll"><a href="#upcoming" class="btn-u btn-brd btn-brd-hover btn-u-light">Upcoming Events</a></span>
+							</div>
 					</li>
 				</ul>
 				<div class="tp-bannertimer tp-bottom"></div>
@@ -264,52 +261,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 	<!-- End Intro Section -->
 
 	<!--  About Section -->
-	<section id="about" class="about-section section-first">
-			 <div class="title-v1">
-				<h2>About Us</h2>
-			   
-			</div>
-			<div class="container">
-				<div class="row content-boxes-v3">
-					<div class="col-md-4 md-margin-bottom-30">
-						<i class="icon-custom rounded-x icon-bg-dark fa fa-lightbulb-o"></i>
-						<div class="content-boxes-in-v3">
-							<h2 class="heading-sm">Creative Desgin</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-						</div>
-					</div>
-					<div class="col-md-4 md-margin-bottom-30">
-						<i class="icon-custom rounded-x icon-bg-dark fa fa-flask"></i>
-						<div class="content-boxes-in-v3">
-							<h2 class="heading-sm">Web Development</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<i class="icon-custom rounded-x icon-bg-dark fa fa-bolt"></i>
-						<div class="content-boxes-in-v3">
-							<h2 class="heading-sm">Online Marketing</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-						</div>
-					</div>
-				</div>
-			</div>
-	   
-				<div class="col-md-6">
-					<img class="img-responsive" src="assets/img/mockup/mockup1.png" alt="">
-				</div>
-		   
-			
 
-		<div class="parallax-quote parallaxBg">
-			<div class="container">
-				<div class="parallax-quote-in">
-					<p>If you can design one thing <span class="color-green">you can design</span> everything. <br> Just Believe It.</p>
-					<small>- Bill Gates -</small>
-				</div>
-			</div>
-		</div>
-	</section>
 	<section id="upcoming">
 		<div class="team-v1 bg-grey content-lg">
 			<div class="container">
@@ -408,9 +360,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 		<div class="container content-lg">
 			<div class="title-v1">
 				<h2>Contact Us</h2>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>
-				It has been the industry's standard dummy text.</p>
-			</div>
+				</div>
 
 			<div class="row contacts-in">
 				<div class="col-md-6 md-margin-bottom-40">
@@ -466,7 +416,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 
 		<div class="copyright-section">
 			<ul class="social-icons">
-				<li><a href="https://www.facebook.com/Swachhta-1931368843858249/" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
+				<li><a href="https://www.facebook.com/Swachhta-1931368843858249/" target="_blank" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
 				<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
 				<li><a href="#" data-original-title="Goole Plus" class="social_googleplus rounded-x"></a></li>
 				<li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
